@@ -3,7 +3,7 @@ import Car from "./Car.jsx"
 function App() {
   return (
     <>
-      <h1>Auto</h1>
+      <h1>Car</h1>
       <Car />
     </>
   );
